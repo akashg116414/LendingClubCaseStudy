@@ -41,7 +41,7 @@ When a person applies for a loan, there are two types of decisions that could be
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-1) Akash Garg 
+Created by
+1) Akash Garg[@akashg116414]
 2) Divya
+- feel free to contact me!
