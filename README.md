@@ -4,8 +4,9 @@
 
 ## Table of Contents
 * [Background](#background)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
+* [Tools](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -42,6 +43,6 @@ When a person applies for a loan, there are two types of decisions that could be
 
 ## Contact
 Created by
-1) Akash Garg[@akashg116414]
+1) Akash Garg(https://github.com/akashg116414)
 2) Divya
 - feel free to contact me!
